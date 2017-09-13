@@ -1,7 +1,7 @@
 import java.util.Date;
 import java.util.function.Predicate;
 
-public interface GroupOperationService {
+public interface StudentArrayOperation {
 
 	Student[] getStudents();
 
